@@ -1,0 +1,7 @@
+mysql-connector-python
+inflection
+pytest
+pytest-mock
+pytest-cov
+coverage
+cryptography

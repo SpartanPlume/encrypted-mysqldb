@@ -1,2 +1,5 @@
 # encrypted-mysqldb
-A basic interface to Mysqldb library with integrated encryption
+A basic python interface to mysql with integrated encryption
+
+## How it works
+TODO, for now you can check unit tests
